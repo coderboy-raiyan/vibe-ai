@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 
-function Home() {
+async function Home() {
   return (
     <div>
       <Button>Submit</Button>
